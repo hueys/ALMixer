@@ -10,7 +10,3 @@ The app creates an AVMutableComposition with four audio tracks, each starting at
 ## Credits ##
 
 [Mixer Image](http://www.flickr.com/photos/71775616@N08/6499052841/) by BobOne80
-
-----
-
-Marked up with [Markdown](http://daringfireball.net/projects/markdown/ "Markdown")
