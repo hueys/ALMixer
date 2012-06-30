@@ -84,7 +84,6 @@
 		AA5BE842159E34DF00D95DF8 = {
 			isa = PBXGroup;
 			children = (
-				AA5BE87E159E3EBA00D95DF8 /* CoreMedia.framework */,
 				AA5BE857159E34DF00D95DF8 /* Mixer */,
 				AA5BE850159E34DF00D95DF8 /* Frameworks */,
 				AA5BE84E159E34DF00D95DF8 /* Products */,
@@ -104,6 +103,7 @@
 			children = (
 				AA5BE87C159E3DA900D95DF8 /* AVFoundation.framework */,
 				AA5BE855159E34DF00D95DF8 /* CoreGraphics.framework */,
+				AA5BE87E159E3EBA00D95DF8 /* CoreMedia.framework */,
 				AA5BE853159E34DF00D95DF8 /* Foundation.framework */,
 				AA5BE851159E34DF00D95DF8 /* UIKit.framework */,
 			);
