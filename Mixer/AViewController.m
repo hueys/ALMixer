@@ -97,7 +97,7 @@
    UISlider* slider = (UISlider*)sender;
    
    [self setVolume:slider.value
-          forTrack:[NSString stringWithFormat:@"track%d", (slider.tag + 1)]];
+          forTrack:[NSString stringWithFormat:@"track%d", slider.tag]];
    [self applyAudioMix];
 }
 
